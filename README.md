@@ -1,6 +1,6 @@
 ### Hey, I'm Chris 👋
 
-Hey! I'm a design-minded engineer that loves to learn, and educate. 
+I'm a design-minded engineer that loves to learn, and educate. I love trying new technologies, writing interactive learning experiences, and building collaborative applications.
 
 - Find me on Twitter [@ctnicholasdev](https://twitter.com/ctnicholasdev)
 - Interactive articles on my blog [ctnicholas.dev](https://www.ctnicholas.dev/)
