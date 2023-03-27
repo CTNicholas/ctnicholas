@@ -1,6 +1,10 @@
-### Chris Nicholas
+### Hey, I'm Chris 👋
 
-Developer experience @liveblocks
+Hey! I'm a design-minded engineer that loves to learn, and educate. 
+
+- Find me on Twitter [@ctnicholasdev](https://twitter.com/ctnicholasdev)
+- Interactive articles on my blog [ctnicholas.dev](https://www.ctnicholas.dev/)
+- Developer experience engineer at [Liveblocks](https://liveblocks.io) ([@liveblocks](https://github.com/liveblocks))
 
 <!--
 **CTNicholas/ctnicholas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
